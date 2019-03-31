@@ -1,0 +1,23 @@
+{
+  "name": "js-unit-test",
+  "version": "1.0.0",
+  "description": "js-unit-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluerat1976/js-unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluerat1976/js-unit-test/issues"
+  },
+  "homepage": "https://github.com/bluerat1976/js-unit-test#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
